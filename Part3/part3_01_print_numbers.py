@@ -1,6 +1,5 @@
-# Write your solution here
-number = 2
-while number <= 30:
-    if number % 2 == 0:
-        print(number)
-    number += 1
+num=2
+
+while num <= 30:
+    print(num)
+    num += 2
